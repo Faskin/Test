@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D3A300F2559681E00ADAEC8 /* Tutor.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D3A300D2559681E00ADAEC8 /* Tutor.xcassets */; };
+		9D3A30102559681E00ADAEC8 /* Tutor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3A300E2559681E00ADAEC8 /* Tutor.swift */; };
 		9DACD83E2542BB3800D95B41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DACD83D2542BB3800D95B41 /* AppDelegate.swift */; };
 		9DACD8402542BB3800D95B41 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DACD83F2542BB3800D95B41 /* SceneDelegate.swift */; };
 		9DACD8422542BB3800D95B41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DACD8412542BB3800D95B41 /* ContentView.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9D3A300D2559681E00ADAEC8 /* Tutor.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Tutor.xcassets; path = ../../../../Downloads/Resources/Tutor.xcassets; sourceTree = "<group>"; };
+		9D3A300E2559681E00ADAEC8 /* Tutor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tutor.swift; path = ../../../../Downloads/Resources/Tutor.swift; sourceTree = "<group>"; };
 		9DACD83A2542BB3800D95B41 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DACD83D2542BB3800D95B41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DACD83F2542BB3800D95B41 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 		9DACD83C2542BB3800D95B41 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				9D3A300E2559681E00ADAEC8 /* Tutor.swift */,
+				9D3A300D2559681E00ADAEC8 /* Tutor.xcassets */,
 				9DACD83D2542BB3800D95B41 /* AppDelegate.swift */,
 				9DACD83F2542BB3800D95B41 /* SceneDelegate.swift */,
 				9DACD8412542BB3800D95B41 /* ContentView.swift */,
@@ -239,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D3A300F2559681E00ADAEC8 /* Tutor.xcassets in Resources */,
 				9DACD84A2542BB3C00D95B41 /* LaunchScreen.storyboard in Resources */,
 				9DACD8472542BB3C00D95B41 /* Preview Assets.xcassets in Resources */,
 				9DACD8442542BB3C00D95B41 /* Assets.xcassets in Resources */,
@@ -266,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D3A30102559681E00ADAEC8 /* Tutor.swift in Sources */,
 				9DACD83E2542BB3800D95B41 /* AppDelegate.swift in Sources */,
 				9DACD8402542BB3800D95B41 /* SceneDelegate.swift in Sources */,
 				9DACD8422542BB3800D95B41 /* ContentView.swift in Sources */,
